@@ -2,9 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.highonpowder.com/index.html</loc>
-    <lastmod>2018-01-29</lastmod>
+    <lastmod>2018-01-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.highonpowder.com/phone/index.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://www.highonpowder.com/tablet/index.html"/>
     <image:image>
       <image:loc>http://www.highonpowder.com/images/hop_text.png</image:loc>
     </image:image>
@@ -19,9 +21,6 @@
     </image:image>
     <image:image>
       <image:loc>http://www.highonpowder.com/images/logos-02.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.highonpowder.com/images/logos-02_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.highonpowder.com/images/logos-03.png</image:loc>

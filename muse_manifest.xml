@@ -1,56 +1,113 @@
-<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.highonpowder.com" resolutions="1x,2x" timestamp="1517267566740">
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.highonpowder.com" resolutions="1x,2x" timestamp="1517349073092">
+  <folder name="tablet">
+    <folder name="css">
+      <file name="index.css" crc="304840026" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="250723651" seo="true" mt="1517348623675" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="53494352" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="4184955876" seo="true" mt="1517348543105" redirect="true"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="4280622023" ref="index"/>
-    <file name="index.css" crc="3866708652" ref="index"/>
+    <file name="index.css" crc="498042939" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="17924269" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="278381782" ref="index"/>
-    <file name="jquery.watch.js" crc="4240030481" ref="index"/>
-    <file name="require.js" crc="3861931657" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:phone>index:tablet>index"/>
+    <file name="museutils.js" crc="17924269" ref="index:phone>index:tablet>index"/>
+    <file name="whatinput.js" crc="86476730" ref="index:phone>index:tablet>index"/>
+    <file name="museconfig.js" crc="278381782" ref="index:phone>index:tablet>index"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index:phone>index:tablet>index"/>
+    <file name="require.js" crc="3861931657" ref="index:phone>index:tablet>index"/>
   </folder>
   <folder name="images">
-    <file name="hop_text.png" crc="269437666" seo="true" ref="index">
+    <file name="hop_text.png" crc="269437666" seo="true" ref="index:tablet>index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="hop_text_2x.png" crc="4041636436" seo="true" ref="index">
+    <file name="hop_text_2x.png" crc="4041636436" seo="true" ref="index:tablet>index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="u114-4.png" crc="185542487" ref="index"/>
     <file name="u114-4_2x.png" crc="4285577354" ref="index"/>
-    <file name="logos-01.png" crc="4222008635" seo="true" ref="index">
+    <file name="logos-01.png" crc="4222008635" seo="true" ref="index:tablet>index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logos-01_2x.png" crc="4083215286" seo="true" ref="index">
+    <file name="logos-01_2x.png" crc="4083215286" seo="true" ref="index:tablet>index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logos-02.png" crc="169904353" seo="true" ref="index">
+    <file name="logos-02.png" crc="169904353" seo="true" ref="index:tablet>index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logos-02_2x.png" crc="3988475902" seo="true" ref="index">
+    <file name="logos-03.png" crc="4160540386" seo="true" ref="index:tablet>index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logos-03.png" crc="4160540386" seo="true" ref="index">
+    <file name="logos-03_2x.png" crc="4122218497" seo="true" ref="index:tablet>index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logos-03_2x.png" crc="4122218497" seo="true" ref="index">
+    <file name="logos-04.png" crc="4257453696" seo="true" ref="index:tablet>index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logos-04.png" crc="4257453696" seo="true" ref="index">
+    <file name="logos-04_2x.png" crc="240195979" seo="true" ref="index:tablet>index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logos-04_2x.png" crc="240195979" seo="true" ref="index">
+    <file name="hop logo black internal.png" crc="4041692254" seo="true" ref="index:tablet>index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="hop logo black internal.png" crc="4041692254" seo="true" ref="index">
+    <file name="hop logo black internal_2x.png" crc="40028684" seo="true" ref="index:tablet>index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="hop logo black internal_2x.png" crc="40028684" seo="true" ref="index">
+    <file name="hop_text268x31.png" crc="3998584177" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="hop_text268x31_2x.png" crc="4098171969" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u430-4.png" crc="4005150020" ref="phone>index"/>
+    <file name="u430-4_2x.png" crc="428942089" ref="phone>index"/>
+    <file name="logos-0132x33.png" crc="3823140211" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logos-0132x33_2x.png" crc="516967633" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logos-0232x32.png" crc="232241992" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logos-0332x32.png" crc="436227800" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logos-0332x32_2x.png" crc="27695921" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logos-0432x32.png" crc="4160663125" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logos-0432x32_2x.png" crc="255951601" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hop logo black internal40x40.png" crc="480740537" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hop logo black internal40x40_2x.png" crc="3797586116" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u602-4.png" crc="185542487" ref="tablet>index"/>
+    <file name="u602-4_2x.png" crc="4285577354" ref="tablet>index"/>
   </folder>
-  <file name="index.html" crc="47444257" seo="true" mt="1517266877413" redirect="true"/>
+  <file name="index.html" crc="3886314064" seo="true" mt="1517348543188" redirect="true"/>
 </manifest>
